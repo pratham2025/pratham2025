@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/prathamesh-patil-b70587230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:prathmeshpatiltoi@gmail.com">
