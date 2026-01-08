@@ -116,5 +116,5 @@ I enjoy transforming complex data into **real-world, impactful solutions**.
 ---
 
 <div align="center">
-  <i>“Data is the new oil, but code is the engine.”</i> 🚀
+  <i>“The best way to predict the future is to create it — through code”</i> 🚀
 </div>
