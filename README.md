@@ -105,8 +105,8 @@ I enjoy transforming complex data into **real-world, impactful solutions**.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175"/>
 </div>
 
 <div align="center">
